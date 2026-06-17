@@ -21,8 +21,7 @@ The evaluated systems are:
 
 * `audio/` — Original and generated audio samples.
 * `code/` — Implementation of the proposed modifications and evaluation scripts.
-* `results/` — FAD, KAD, and training-loss results.
-* `figures/` — Figures used in the thesis.
+* `loss_values/` — loss plots with their respective loss values.
 * `DATASET_SOURCES.md` — Attribution and licensing information for Freesound recordings.
 
 ## Dataset
